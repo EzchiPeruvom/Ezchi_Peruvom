@@ -1,0 +1,54 @@
+.contact-container {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f4f4f4; /* Light gray background */
+}
+
+.contact-container h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.contact-container a{
+    text-decoration: none;
+    color: #333;
+    border-radius: 5%;
+    background-color: #ffe5e5;
+    padding: 5px;
+}
+
+.highlighted {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #d32f2f; /* Highlighted red color */
+    background-color: #ffe5e5; /* Light red background */
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.contact-container p {
+    font-size: 1.2rem;
+    color: #555;
+    margin: 10px 0;
+}
+
+/* WhatsApp Button */
+
+@media (max-width: 768px) {
+    .contact-container h1 {
+        font-size: 2rem;
+    }
+
+    .highlighted {
+        font-size: 1.3rem;
+        padding: 8px;
+    }
+
+    .contact-container p {
+        font-size: 1rem;
+    }
+}
