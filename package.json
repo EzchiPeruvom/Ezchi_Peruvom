@@ -1,4 +1,5 @@
 {
+  "homepage": "https://EzchiPeruvom.github.io/Ezchi_Peruvom",
 
   "name": "kc",
 
@@ -27,6 +28,10 @@
   "scripts": {
 
     "start": "react-scripts start",
+
+    "predeploy":"npm run build",
+
+    "deploy": "gh-pages -d build",
 
     "build": "react-scripts build",
 
