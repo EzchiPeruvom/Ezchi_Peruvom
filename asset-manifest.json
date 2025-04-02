@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ezchi_Peruvom/static/css/main.873b3894.css",
+    "main.js": "/Ezchi_Peruvom/static/js/main.2c465e91.js",
+    "static/js/453.820229ba.chunk.js": "/Ezchi_Peruvom/static/js/453.820229ba.chunk.js",
+    "static/media/about_image.jpg": "/Ezchi_Peruvom/static/media/about_image.73389043db558a87c86d.jpg",
+    "static/media/home_image.jpg": "/Ezchi_Peruvom/static/media/home_image.858e9203d5832917ce16.jpg",
+    "index.html": "/Ezchi_Peruvom/index.html",
+    "main.873b3894.css.map": "/Ezchi_Peruvom/static/css/main.873b3894.css.map",
+    "main.2c465e91.js.map": "/Ezchi_Peruvom/static/js/main.2c465e91.js.map",
+    "453.820229ba.chunk.js.map": "/Ezchi_Peruvom/static/js/453.820229ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.873b3894.css",
+    "static/js/main.2c465e91.js"
+  ]
+}
